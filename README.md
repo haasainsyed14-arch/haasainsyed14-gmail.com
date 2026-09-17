@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Haasain Syed</h1>
- 👋 Hey! I'm hassain syed
+<h1 align="center">Hi 👋, I'm Syed Hassain </h1>
+ 👋 Hey! I'm   Syed Hassain
 
 ### 🎓 B.Tech Student | 💻 Aspiring Software Developer | 🚀 Tech Enthusiast
 
